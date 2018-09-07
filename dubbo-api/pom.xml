@@ -7,8 +7,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>dubbo-api</artifactId>
-    <packaging>war</packaging>
-    <name>dubbo-api Maven Webapp</name>
+    <packaging>jar</packaging>
+    <name>dubbo-api</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
